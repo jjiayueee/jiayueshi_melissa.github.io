@@ -29,10 +29,14 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
+  - icon: brands/twitter
+    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/jiayue-shi-abb550296/
+    url: https://www.linkedin.com/
+  - icon: brands/instagram
+    url: https://www.instagram.com/
 
 education:
   - institution: University of Illinois Urbana-Champaign
