@@ -37,6 +37,10 @@ sections:
     content:
       title: Awards
       username: admin
+  - block: college  
+    content:
+      title: College
+      username: admin
   - block: languages
     content:
       title: Languages
