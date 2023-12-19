@@ -33,13 +33,9 @@ sections:
     content:
       title: Skills & hobbies
       username: admin
-  - block: award  # Corrected typo from "prject" to "project"
+  - block: awards  
     content:
-      title: Award
-      username: admin
-  - block: college_experience
-    content:
-      title: College Experience
+      title: Awards
       username: admin
   - block: languages
     content:
