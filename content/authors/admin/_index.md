@@ -119,7 +119,7 @@ languages:
     percent: 100
 
 # Awards
-awards:
+project:
   - title: Marketing Analytic with Python and ML 
     date: '2023-08-06'
     summary: |
@@ -138,6 +138,18 @@ awards:
       - Designed a relational database schema for inventory management, including tables for products, categories, supplies, and transactions.
       - Developed a command-line interface (CLI) allowing users to perform tasks like adding products, updating details, tracking inventory, and generating basic reports using SQL queries.
       - Demonstrated proficiency in SQL database design, data management, and basic reporting, showcasing practical application and problem-solving abilities.
+
+#College Experience
+college experience:
+  - title: Received recognition on the Dean’s List for both freshmen and sophomore years
+  - title: Lead Global Lion Ambassador Program
+  - title: Co-coordinated Cleveland Trip Volunteer activity
+  - title: Co-coordinated the EECS Mentor Collective Program
+  - title: Participated in a Multi-Campus Research Experience for Undergraduates Program
+  - title: Recipient of the Clark Association Scholarship for Academic Excellence and Community Involvement
+  - title: Engaged with Women in Computer Science program at UIUC
+
+   
 
 
 ---
