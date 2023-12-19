@@ -40,7 +40,7 @@ profiles:
 
 education:
   - institution: University of Illinois Urbana-Champaign
-    date_start: [Expected] Aug 2023 - May 2025
+    date_start: Aug 2023 - May 2025
     date_end: 2020-12-31
     summary: |
       GPA: 3.53/4.00
