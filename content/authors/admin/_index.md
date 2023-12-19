@@ -65,7 +65,7 @@ work:
     company_name: Penn State 
     company_url: ''
     company_logo: ''
-    date_start: Spring 2023
+    date_start: 2020-12-31
     date_end: ''
     summary: |2-
       Responsibilities include:
