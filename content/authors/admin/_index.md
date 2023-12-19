@@ -63,10 +63,10 @@ education:
 work:
   - position: Penn State Association for Computing Machinery Webmaster
     company_name: Penn State 
-    #company_url: ''
-    #company_logo: ''
+    company_url: ''
+    company_logo: ''
     date_start: Spring 2023
-    #date_end: ''
+    date_end: ''
     summary: |2-
       Responsibilities include:
       - Led the development and upkeep of PSU ACM’s website, focusing on user experience and engaging design.
