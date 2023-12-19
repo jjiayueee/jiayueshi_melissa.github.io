@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate student at UIUC
+role: Undergraduate Student at University of Illinois Urbana-Champaign
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: UIUC
-    url: https://www.example.com/
+  - name: University of Illinois Urbana-Champaign
+    url: https://illinois.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,50 +40,39 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - institution: University of Illinois Urbana-Champaign
+    date_start: [Excepted] Aug 2023 - May 2025
+    # date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.53/4.00
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Algorithms Analysis
+      - Numerical Method
+      - Computer Architecture
+  - institution: The Pennsylvania State University 
+    date_start: Aug 2021 - May 2023
+    #date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.63/4.00
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Data Structures 
+      - Machine Learning
+      - Website Development
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Penn State Association for Computing Machinery Webmaster
+    company_name: Penn State 
+    #company_url: ''
+    #company_logo: ''
+    date_start: Spring 2023
+    #date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Led the development and upkeep of PSU ACM’s website, focusing on user experience and engaging design.
+      - Organized diverse content, ensuring timely updates and relevant information for the computing community.
+      - Applied technical expertise to resolve issues promptly, enhancing website performance, security, and accessibility.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -123,15 +112,14 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+awards: #project
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
