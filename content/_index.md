@@ -31,7 +31,7 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Skills 
+      title: Skills & hobbies
       username: admin
     - block: project  # Corrected typo from "prject" to "project"
     content:
