@@ -19,18 +19,17 @@ superuser: true
 # Role/position/tagline
 role: Undergraduate Student at University of Illinois Urbana-Champaign
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: University of Illinois Urbana-Champaign
     url: https://illinois.edu/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/twitter
     url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/gcushen
@@ -41,7 +40,7 @@ profiles:
 
 education:
   - institution: University of Illinois Urbana-Champaign
-    date_start: [Excepted] Aug 2023 - May 2025
+    date_start: [Expected] Aug 2023 - May 2025
     date_end: 2020-12-31
     summary: |
       GPA: 3.53/4.00
@@ -60,6 +59,7 @@ education:
       - Data Structures 
       - Machine Learning
       - Website Development
+
 work:
   - position: Penn State Association for Computing Machinery Webmaster
     company_name: Penn State 
@@ -72,7 +72,6 @@ work:
       - Led the development and upkeep of PSU ACM’s website, focusing on user experience and engaging design.
       - Organized diverse content, ensuring timely updates and relevant information for the computing community.
       - Applied technical expertise to resolve issues promptly, enhancing website performance, security, and accessibility.
-
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,12 +113,8 @@ languages:
   - name: Chinese
     percent: 100
 
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards: #project
+# Awards
+awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
@@ -148,3 +143,4 @@ awards: #project
 ---
 
 I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+
