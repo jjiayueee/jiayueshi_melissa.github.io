@@ -140,7 +140,7 @@ project:
       - Demonstrated proficiency in SQL database design, data management, and basic reporting, showcasing practical application and problem-solving abilities.
 
 #College Experience
-college experience:
+college_experience:
   - title: Received recognition on the Dean’s List for both freshmen and sophomore years
   - title: Lead Global Lion Ambassador Program
   - title: Co-coordinated Cleveland Trip Volunteer Activity
