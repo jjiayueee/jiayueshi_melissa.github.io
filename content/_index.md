@@ -33,7 +33,7 @@ sections:
     content:
       title: Skills & hobbies
       username: admin
-    - block: project  # Corrected typo from "prject" to "project"
+  - block: project  # Corrected typo from "prject" to "project"
     content:
       title: Project
       username: admin
@@ -45,5 +45,4 @@ sections:
     content:
       title: Languages
       username: admin
-  
 ---
