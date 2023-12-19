@@ -29,19 +29,15 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/twitter
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/jiayue-shi-abb550296/
 
 education:
   - institution: University of Illinois Urbana-Champaign
-    date_start: 2020-12-31
-    date_end: 2020-12-31
+    date_start: 2023-08-16
+    date_end: 2025-05-06
     summary: |
       GPA: 3.53/4.00
 
@@ -50,8 +46,8 @@ education:
       - Numerical Method
       - Computer Architecture
   - institution: The Pennsylvania State University 
-    date_start: 2020-12-31
-    date_end: 2020-12-31
+    date_start: 2021-05-06
+    date_end: 2023-05-06
     summary: |
       GPA: 3.63/4.00
       
@@ -65,8 +61,8 @@ work:
     company_name: Penn State 
     company_url: ''
     company_logo: ''
-    date_start: 2020-12-31
-    date_end: ''
+    date_start: 2023-01-09
+    date_end: 2023-05-06
     summary: |2-
       Responsibilities include:
       - Led the development and upkeep of PSU ACM’s website, focusing on user experience and engaging design.
@@ -78,34 +74,51 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Java
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: Python
         description: ''
         percent: 80
-        icon: camera
+        icon: circle-stack
+      - name: SQL
+        description: ''
+        percent: 80
+        icon: circle-stack
+      - name: HTML/CSS
+        description: ''
+        percent: 80
+        icon: circle-stack
+  - name: Developer Tools:
+     items:
+      - name: VS Code
+        description: ''
+        percent: 100
+        #icon: code-bracket
+      - name: XCode
+        description: ''
+        percent: 100
+        #icon: chart-bar
+      - name: IntelliJ IDEA
+        description: ''
+        percent: 80
+        #icon: circle-stack
+   - name: Technologies/Frameworks:
+     items:
+      - name: GitHub
+        description: ''
+        percent: 100
+        #icon: code-bracket
+      - name: WordPress
+        description: ''
+        percent: 100
+        #icon: chart-bar
+    
 
 languages:
   - name: English
@@ -114,32 +127,37 @@ languages:
     percent: 100
 
 # Awards
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+project:
+  - title: Marketing Analytic with Python and ML 
+    #url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-08-06'
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      - Leveraged Python, Numpy, Pandas, and Scikit-Learn to implement machine algorithms for marketing analytic.
+Developed predictive models to optimize marketing strategies and improve decision-making
+      - Demonstrated proficiency in data processing and multicollinearity datasets. Enhanced model accuracy and
+interpret-ability through feature engineering techniques
+  - title: Postpartum Depression Data Analysis
+    
+    date: '2023-05-06'
+   
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+
+      - Analyzed and collected 200 data sourced from the TriNetX Research Network using Python for data manipulation and
+analysis, identifying the relationship between other disease and postpartum depression
+      - Processed 10K electronic health records (EHR) data by Python and assess the prevalence and impact of different
+disease on the occurrence and severity of postpartum depression
+      - Provided research findings and conclusions about the relationship between postpartum depression and other health
+conditions
+  - title: Inventory Management
+    date: '2023-08-21'
+    
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      - Designed a relational database schema for inventory management, including tables for products, categories, supplies, and
+transactions
+      - Developed a command-line interface (CLI) allowing users to performa tasks like adding products, updating details,
+tracking inventory, and generating basic reports using SQL queries.
+      - Demonstrated proficiency in SQL database design, data management, and basic reporting, showcasing practical
+application and problem-solcing abilities
 ---
 
 I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
