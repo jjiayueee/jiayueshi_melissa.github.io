@@ -143,7 +143,7 @@ project:
 college experience:
   - title: Received recognition on the Dean’s List for both freshmen and sophomore years
   - title: Lead Global Lion Ambassador Program
-  - title: Co-coordinated Cleveland Trip Volunteer activity
+  - title: Co-coordinated Cleveland Trip Volunteer Activity
   - title: Co-coordinated the EECS Mentor Collective Program
   - title: Participated in a Multi-Campus Research Experience for Undergraduates Program
   - title: Recipient of the Clark Association Scholarship for Academic Excellence and Community Involvement
