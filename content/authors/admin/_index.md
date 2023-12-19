@@ -119,7 +119,7 @@ languages:
     percent: 100
 
 # Project
-project:
+awards:
   - title: Marketing Analytic with Python and ML 
     date: '2023-08-06'
     summary: |
