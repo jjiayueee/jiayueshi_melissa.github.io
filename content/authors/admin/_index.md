@@ -118,7 +118,7 @@ languages:
   - name: Chinese
     percent: 100
 
-# Awards
+# Project
 project:
   - title: Marketing Analytic with Python and ML 
     date: '2023-08-06'

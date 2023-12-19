@@ -33,12 +33,17 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: awards
+  - block: prject
     content:
-      title: Awards
+      title: Project
+      username: admin
+  - block: college_experience
+    content:
+      title: College Experience
       username: admin
   - block: languages
     content:
       title: Languages
       username: admin
+  
 ---
