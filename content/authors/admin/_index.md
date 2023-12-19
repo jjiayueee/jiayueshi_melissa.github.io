@@ -40,7 +40,7 @@ profiles:
 
 education:
   - institution: University of Illinois Urbana-Champaign
-    date_start: Aug 2023 - May 2025
+    date_start: 2020-12-31
     date_end: 2020-12-31
     summary: |
       GPA: 3.53/4.00
@@ -50,7 +50,7 @@ education:
       - Numerical Method
       - Computer Architecture
   - institution: The Pennsylvania State University 
-    date_start: Aug 2021 - May 2023
+    date_start: 2020-12-31
     date_end: 2020-12-31
     summary: |
       GPA: 3.63/4.00
